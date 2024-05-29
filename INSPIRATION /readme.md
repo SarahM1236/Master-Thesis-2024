@@ -4,7 +4,7 @@
 
 ![Minmap](Master-Thesis-2024/INSPIRATION/2024-03-28/MindMap.jpg)
 
-# Inspirations For Master Thesis
+# Inspirations 
 
 ## Themes :
 
