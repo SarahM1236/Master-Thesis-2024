@@ -2,7 +2,7 @@
 # Master Thesis 2024
 
 
-![Minmap](INSPIRATION/2024-03-28/MindMap.jpg)
+![Mindmap](/INSPIRATION/2024-03-28/MindMap.jpg)
 
 # Inspirations 
 
