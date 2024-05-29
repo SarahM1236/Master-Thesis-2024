@@ -107,5 +107,7 @@ Plus : La reconnaissance marche généralement bien mais suivant la qualité de 
 
  - Observations sur le terrain : (ex : Agent d’exploitation)
  - Entretiens avec des jardiniers/ fleuristes/ Botanistes
+ - Catégoriser les plantes facilement identifiées et celles qui ne le sont pas -> pourquoi ?
+ - Catégoriser les maladies/bactéries facilement identifiés et ceux qui ne le sont pas -> pourquoi ?
  - Examiner d'autres outils numériques pour la reconnaissance du milieu naturel ? 
  
