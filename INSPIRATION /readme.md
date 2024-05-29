@@ -1,5 +1,5 @@
 
-# Master Thesis 2024
+# Master Thesis 2024 - Mindmap
 
 ![Alt text](Mindmap-1.png)
 
