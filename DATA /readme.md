@@ -3,7 +3,7 @@
 ![Logo Applications d'identifications](Logo_App-1-1.png)
 <h1> Applications </h1>
 
- - Happy plants : (identification sur la plante a besoin d’eau)
+  - Happy plants : (identification sur la plante a besoin d’eau)
  - WaterBots : (identification sur la plante a besoin d’eau)
  - Planta : (Permet de découvrirez les soins adaptés aux végétaux)
  - Growww : (Explique quand semer ou repiquer, et vous rappelle d'arroser les plantes)
@@ -30,7 +30,7 @@
 
 <h3>Réponses : </h3>
 
-<h4>Utilisatrice 1</h4> 
+<h1>Utilisatrice 1</h1> 
 
  1. 26 ans
  2. Hôtellerie
@@ -41,7 +41,7 @@
  7. Ne pas tuer mes plantes
  8. Non aucun autres outils numériques
 
-<h4>Utilisateur 2</h4>
+<h1>Utilisateur 2</h1>
 
  1. 25 ans
  2. Agronomie (ensemble des sciences exactes, naturelles, économiques et sociales, et des techniques auxquelles il est fait appel dans la pratique et la compréhension de l'agriculture)
@@ -54,7 +54,7 @@
 
 Plus : La reconnaissance marche généralement bien mais suivant la qualité de la photo ou le stade de développement de la plante ça ne marche pas tant que cela. (Il donne toujours un pourcentage de certitude et si je connais pas la plante, je me base là dessus si le pourcentage de reconnaissance est ok (>50%).
 
-<h4>Utilisatrice 3</h4>
+<h1>Utilisatrice 3</h1>
 
  1. 47 ans
  2. Cloud & DevOps Deployment Services Manager 
@@ -65,11 +65,11 @@ Plus : La reconnaissance marche généralement bien mais suivant la qualité de 
  7. C'est plus facile que d'aller acheter des livres et chercher dans les livres
  8. Non aucun autres outils numériques
 
-<h4>Utilisateur 4</h4>
+<h1>Utilisateur 4</h1>
 
  1. 25 ans
  2. Agent d’exploitation
- 3. ⁠⁠L’application « PictureThis »
+ 3. ⁠⁠L’application « PictureThis/InvasivApp/ FlorApp »
  4. Assurer l’identification/ Identifier des Arbres/arbustes/fleures
  5. ⁠⁠J’utilise les données en fonction de mes besoins. (Si maladie sur plante que faire? , époque de floraison, replantation, taille)
  6. 2-3x par semaine
@@ -82,7 +82,7 @@ Plus : La reconnaissance marche généralement bien mais suivant la qualité de 
 
 <p>Inconvénient : "Ce que je vois en utilisant l’application c’est le regard des gens, on travaille habillé tout en orange à la vue de tout le monde souvent quand les gens nous voient sur notre téléphone tout de suite ils se disent « ils font que de rester sur leur téléphone.. » alors qu’en fait c’est aussi un outil de travail. On utilise aussi une application qui s’appelle « InvasivApp » et « FlorApp » pour répertorier les plantes invasives. En utilisant ces app on est beaucoup soit sur notre téléphone soit sur notre tablette."</p>
 
-<h4>Utilisateur 4 :</h4>
+<h1>Utilisateur 4 :</h1>
 
  1. 25 ans
  2. Etudiant en ingénierie
@@ -92,3 +92,20 @@ Plus : La reconnaissance marche généralement bien mais suivant la qualité de 
  6. 1x par semaine environ
  7. Rien de particulier: je connais pas mieux les plantes. Je les oublie instantanément
  8. Non aucun autres outils numériques
+
+<h1>Résumé</h1>
+
+ - 0 utilisateurs d'identifications pour animaux (ex : Champs des oiseaux)
+ - Pour la plupart : utilisation personnelle (arroser ses propres plantes)
+ - Ne font rien de particulier ensuite avec ces données (hors travail)
+ - Identification par curiosité sur un instant précis (oublis ensuite)
+ - Identification pour le travail (guérison et gain de temps)
+ - Pas de fiabilité à 100%
+ - Pas de réelles initiatives écologiques à grande échelle
+
+<h1>A développer</h1>
+
+ - Observations sur le terrain : (ex : Agent d’exploitation)
+ - Entretiens avec des jardiniers/ fleuristes/ Botanistes
+ - Examiner d'autres outils numériques pour la reconnaissance du milieu naturel ? 
+ 
