@@ -1,8 +1,7 @@
 
 # Master Thesis 2024
 
-![Mindmap](Master-Thesis-2024/INSPIRATION/Mindmap.png)
-
+![Alt text](Mindmap-1.png)
 
 # Inspirations 
 ![PollinatorPathmaker](INSPIRATION/2024-03-28/PollinatorPathmaker.png)
