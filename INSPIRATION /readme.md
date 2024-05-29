@@ -4,7 +4,7 @@
 
 ![](image.png)
 
-# Inspirations For Master Thesis
+# Inspirations 
 
 ## Themes :
 
